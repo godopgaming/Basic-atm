@@ -40,6 +40,10 @@ python basic-atm.py
    - **Logout**: Return to the welcome screen.
 
 ## Customization
+![Uploading IMG-20250123-WA0000.jpg…]()
+
+
+
 
 - **Initial Balance**: Modify the `self.balance` variable in the `ATM` class constructor.
 - **Default PIN**: Change the `self.pin` variable in the `ATM` class constructor.
